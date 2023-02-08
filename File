@@ -1,0 +1,3 @@
+# Create the runner and start the configuration experience
+$ ./config.sh --url https://github.com/Tyaheo/Tyaheoun --token A4XQQZFMS237LLBMQPXROSDD4O3EQ# Last step, run it!
+$ ./run.sh
